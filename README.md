@@ -10,7 +10,7 @@ I'm a Computer Science graduate student specializing in Machine Learning and AI,
 
 ### Focus areas
 
-`Computer Vision` &nbsp; `Deep Learning` &nbsp; `Data Science` &nbsp; `Cybersecurity`
+`Computer Vision`   `Deep Learning`   `Data Science`   `Cybersecurity`
 
 ---
 
@@ -34,4 +34,4 @@ I'm a Computer Science graduate student specializing in Machine Learning and AI,
 
 ---
 
-📍 Based in China &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdoul-jabbar-maiga-b68225361/) &nbsp;|&nbsp; [Email](mailto:abdouljabbarmaiga2019@gmail.com)
+📍 Based in China  |  [LinkedIn](https://www.linkedin.com/in/abdoul-jabbar-maiga-b68225361/)  |  [Email](mailto:abdouljabbarmaiga2019@gmail.com)
