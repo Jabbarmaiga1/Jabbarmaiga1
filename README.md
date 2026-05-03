@@ -4,7 +4,7 @@ CS & Machine Learning Master's student at ECUT, China.
 
 ---
 
-I'm a Computer Science graduate student specializing in Machine Learning and AI, with a growing interest in cybersecurity. I enjoy building end-to-end ML systems — from data to deployment — and exploring the intersection of deep learning and real-world applications.
+I'm a Computer Science graduate student specializing in Machine Learning and AI, with a growing interest in cybersecurity. I enjoy building end-to-end ML systems  from data to deployment  and exploring the intersection of deep learning and real-world applications.
 
 ---
 
